@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🔧 Linux & Network Engineer | 🌐 4+ Years of Experience | 🔐 Passionate About Cybersecurity and Continuous Learning
 -------------------------------------------------------------------------------------------------------------------
 
-\## 👨‍💻 About Me
+**\## 👨‍💻 About Me**
 
 I am a Linux and Network Engineer with over 4 years of hands-on experience in designing, deploying, managing, and troubleshooting Linux-based systems and network infrastructure. Throughout my career, I have worked with various technologies related to system administration, networking, virtualization, monitoring, and automation to ensure reliable and secure IT environments.
 
 My passion for technology extends beyond infrastructure management into the field of Cybersecurity. I am continuously expanding my knowledge of security concepts, threat detection, vulnerability assessment, network security, and security best practices. I enjoy learning new tools, exploring emerging technologies, and staying updated with the evolving cybersecurity landscape.
 
-\### 🚀 Core Skills
+**\### 🚀 Core Skills**
 
 \- Linux System Administration (RHEL, Ubuntu, CentOS)
 
@@ -30,7 +30,7 @@ My passion for technology extends beyond infrastructure management into the fiel
 
 \- Incident Analysis & Problem Resolution
 
-\### 🎯 Current Focus
+**\### 🎯 Current Focus**
 
 \- Cybersecurity Fundamentals
 
@@ -44,7 +44,7 @@ My passion for technology extends beyond infrastructure management into the fiel
 
 \- Cloud and Infrastructure Security
 
-\### 🌱 Philosophy
+**\### 🌱 Philosophy**
 
 I believe in continuous learning, knowledge sharing, and building secure, efficient, and scalable infrastructure. Every challenge is an opportunity to learn something new and improve both technical and problem-solving skills.
 
